@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Running Application</string>
+    <!-- activity_main -->
+    <string name="time">0.00km</string>
+    <string name="Lati">緯度：</string>
+    <string name="Long">経度：</string>
+    <string name="Alti">高度：</string>
+    <string name="Sped">速度：</string>
+    <string name="stop_dialog">停止</string>
+    <string name="stop_check">確認</string>
+    <string name="g2">停止しますか?</string>
+
+    <!-- MainActivity -->
+    <string name="GpsCheck1">GPS設定</string>
+    <string name="GpsCheck2">GPSが有効になっていません。\n設定から有効化してください。</string>
+    <string name="GpsCheck3">設定に移動</string>
+    <string name="Cancel">キャンセル</string>
+
+    <string name="Start">開始</string>
+    <string name="RunStart">ランニングを開始します。</string>
+    <string name="End">終了</string>
+    <string name="RunEnd">ランニングを終了します。よろしいですか？(※記録中です。)</string>
+</resources>
